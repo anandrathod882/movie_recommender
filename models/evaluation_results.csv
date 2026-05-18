@@ -1,0 +1,4 @@
+Model,Precision@10,Recall@10,NDCG@10,HitRate@10,RMSE
+Content-Based (TF-IDF),0.042,0.0111,0.0558,0.42,N/A
+SVD (Collaborative),0.0,0.0,0.0,0.0,1.8384
+Neural CF (NCF),0.0,0.0,0.0,0.0,N/A
